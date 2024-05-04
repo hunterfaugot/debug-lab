@@ -34,7 +34,7 @@ resetButton.addEventListener('click', function() {
 // Question 7: How can you monitor the value of count using breakpoints?
 // A: Put a debugger after the count++, in inspect sources > scope > local it will show the value
 // Question 8: What is the scope of the count variable in DevTools?
-// A: Local
+// A: Global
 // Question 9: Use the Network tab to find out: Is the app.js file loaded successfully?
 // A: It loads successfully but has a 404 error not finding the favicon
 // Question 10: Use the Console to track errors. Are there any errors being thrown?
